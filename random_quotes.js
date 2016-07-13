@@ -179,7 +179,7 @@ Module.register("random_quotes",{
 		wrapper.appendChild(quote);
 
 		var author = document.createElement("div");
-		author.className = "light small dimmed";
+		author.className = "light small bright";
 		author.innerHTML = "~ " + qAuthor;
 
 		wrapper.appendChild(author);
