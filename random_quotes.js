@@ -47,7 +47,7 @@ Module.register("random_quotes",{
 			love: [
 				"Men always want to be a woman's first love - women like to be a man's last romance. ~ Oscar Wilde",
 				"Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country. ~ Anais Nin",
-				"I'm really proud to be Filipino. Filipinos are really supportive, and I want to thank all of them. I love them! ~ Charice Pempengco",
+				"It is easier to go down a hill than up, but the view is from the top. ~ Arnold Bennett",
 				"Sometimes life hits you in the head with a brick. Don't lose faith. ~ Steve Jobs",
 				"I've sometimes thought of marrying - and then I've thought again. ~ Noel Coward",
 				"In the end, the love you take is equal to the love you make. ~ Paul McCartney",
