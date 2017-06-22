@@ -1,18 +1,11 @@
 /* Magic Mirror Module: random_quotes
- * v1.0 - June 2016
+ * v2.0 - June 2017
  *
- * By Ashley M. Kirchner <kirash4@gmail.com>
+ * By Tek Nepal <np.teku@gmail.com>
  * Beer Licensed (meaning, if you like this module, feel free to have a beer on me, or send me one.)
  */
 
 Module.register("random_quotes",{
-
-	/* Quotes are courtesy of BrainyQuote.com
-	   There is no 'automated' way to fetch random quotes from BrainyQuote.com. You'll have to
-	   manually do that yourself. Or find a free random quote API at which point you are welcome
-	   to rewrite this module to use that. All the ones I've found are paid services. Free ones
-	   only allow a single quote for the day. Kinda defeats the purpose.
-	 */
 
 	// Module config defaults.
 	defaults: {
